@@ -20,12 +20,16 @@ Here are some ideas to get you started:
 
   ### Connect With Me:
 
-  [<img align="left" alt="Sinuhem23 | LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="Sinuhem23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 <br>
 
 ## Languages and Tools:
 
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/tpoics/nodejs/nodejs.png" />][webdevplaylist]
+
 [portfolio]: https://react-portfolio-ashen.vercel.app/
 [linkedin]: https://www.linkedin.com/in/sinuhe-montero-thinkfirst/
+
+[webdevplaylist: https://github.com/Sinuhem23

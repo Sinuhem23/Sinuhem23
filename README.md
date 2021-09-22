@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 
 [portfolio]: https://react-portfolio-ashen.vercel.app/
 [linkedin]: https://www.linkedin.com/in/sinuhe-montero-thinkfirst/
-
-[webdevplaylist: https://github.com/Sinuhem23
+[webdevplaylist]: https://github.com/Sinuhem23

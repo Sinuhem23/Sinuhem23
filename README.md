@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Sinuhem23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sinuhem23&show_icons=true&hide_border=true&hide=stars,issues&theme=radical" />
+<img align="left" alt="Sinuhem23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sinuhem23&show_icons=true&hide_border=true&hide=stars,issues&title_color=red" />
 
 [portfolio]: https://react-portfolio-ashen.vercel.app/
 [linkedin]: https://www.linkedin.com/in/sinuhe-montero-thinkfirst/

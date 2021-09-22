@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Sinuhem23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sinuhem23&show_icons=true&hide_border=true&hide=stars,issues&theme=dracula" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [portfolio]: https://react-portfolio-ashen.vercel.app/
 [linkedin]: https://www.linkedin.com/in/sinuhe-montero-thinkfirst/

@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 - 😄 How to pronounce my name: Sin-nu-e
 - ⚡ Fun fact: I love to paint/art and code untill one eye begins to fall asleep.
 
-  ### Connect With Me:
-
-  [<img align="left" alt="Sinuhem23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br>
 <br>
 

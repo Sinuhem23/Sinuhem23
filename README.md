@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-# Checkout my [Portfolio]
+# Checkout My [Portfolio]
 
     ✨ I am a life long learner who loves to code! ✨
 
@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin]
 - 😄 How to pronounce my name: Sin-nu-e
 - ⚡ Fun fact: I love to paint/art and code untill one eye begins to fall asleep.
+
+  ### Connect With Me:
+
+  [<img align="left" alt="Sinuhem23" | LinkedIn width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
+
+<br>
+<br>
+
+## Languages and Tools:
 
 [portfolio]: https://react-portfolio-ashen.vercel.app/
 [linkedin]: https://www.linkedin.com/in/sinuhe-montero-thinkfirst/

@@ -33,6 +33,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 
+<br>
+<br>
+
+---
+
+<img align="left" alt="Sinuhem23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sinuhem23&show_icons=true&hide_border=true" />
+
 [portfolio]: https://react-portfolio-ashen.vercel.app/
 [linkedin]: https://www.linkedin.com/in/sinuhe-montero-thinkfirst/
 [webdevplaylist]: https://github.com/Sinuhem23

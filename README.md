@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   ### Connect With Me:
 
-  [<img align="left" alt="Sinuhem23 | LinkedIn" width="22px" background-color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="Sinuhem23 | LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 <br>

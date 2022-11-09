@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-## Checkout My [Portfolio]
+## My [Portfolio]
 
     ✨ I am a life long learner who loves to code! ✨
 
